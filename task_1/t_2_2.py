@@ -16,4 +16,4 @@ match znak:
     case "**":
         print(f"{number ** number_2}  ")
     case "%":
-        print(f"{number % number_2}  ")
+        print(f"{number % number_2} ")
